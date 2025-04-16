@@ -1,7 +1,7 @@
 # Python System Monitoring Lab
 
 ## 📌 Introduction  
-This lab demonstrates how to build a basic system monitoring tool using Python and the `psutil` library. Students will learn how to track CPU usage, RAM usage, and disk space, set performance thresholds, and trigger automated email alerts using Mailjet when those thresholds are exceeded.
+This lab demonstrates how to build a basic system monitoring tool using Python and the `psutil` library to track CPU usage, RAM usage, and disk space, set performance thresholds, and trigger automated email alerts using Mailjet when those thresholds are exceeded.
 
 ---
 
@@ -15,7 +15,6 @@ This lab demonstrates how to build a basic system monitoring tool using Python a
 ---
 
 ## 🎯 Lab Objectives  
-By the end of this lab, learners will be able to:
 
 - Monitor system metrics such as CPU usage, RAM usage, and disk space using Python’s `psutil` library.
 - Define performance thresholds for key system resources.
@@ -64,13 +63,6 @@ By the end of this lab, learners will be able to:
 ## 📩 Email Verification  
 - Validate that your monitoring alert was successfully sent and received via Mailjet.
 - Ensure that the email includes timestamped information about the exceeded system metrics.
-
----
-
-## 📝 Submission Guidelines  
-1. Take a screenshot of the received alert email.
-2. Upload the screenshot and your script (`monitor.py`) to your GitHub repository.
-3. Submit the **GitHub repository link** for assessment.
 
 ---
 
